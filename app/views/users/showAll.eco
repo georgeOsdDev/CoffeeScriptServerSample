@@ -1,0 +1,5 @@
+<img src="./img/<%= @userArray[0].image %>"  alt=<%= @userArray[0].name %>>
+<img src="./img/<%= @userArray[1].image %>"  alt=<%= @userArray[0].name %>>
+<img src="./img/<%= @userArray[2].image %>"  alt=<%= @userArray[0].name %>>
+<br>
+<h2>Super Mario Brothers</h2>
